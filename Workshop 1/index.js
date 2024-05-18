@@ -6,7 +6,7 @@
 // - Adult ticket: $8" (between 18 and 60)
 // - Senior ticket $10 (over 60 years)
 
-let age = 0;
+let age = 1;
 
 if (age <= 0) {
     console.log("Please insert a valid number for age");
